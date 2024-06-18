@@ -1,0 +1,2 @@
+# Wazuh-Rules
+Wazuh Rules
